@@ -30,7 +30,7 @@ PasswordStrengthChecker/ ├── opensource2.java ├── README.md ├─�
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PasswordStrengthChecker.git
+   git clone https://github.com/yagmur-ero/PasswordStrengthChecker.git
 
 2. Make sure Java 11 or higher is installed
 3. Compile and run the program:
@@ -61,6 +61,10 @@ Pull requests and issues are welcome! Please keep your code clean and well-comme
 
 ## 👩‍💻 Author
 Created by Yağmur – a beginner Java developer exploring open source and backend fundamentals.
+
+## 🔗 Repository
+
+[View on GitHub](https://github.com/yagmur-ero/PasswordStrengthChecker.git)
 
 ---
 
